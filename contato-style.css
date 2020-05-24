@@ -1,0 +1,56 @@
+.nav{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    font-size: larger;
+}
+.nav-link{
+    color: white;
+}
+.title{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: groove;
+    border-color: black;
+    border-spacing: 100%;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 100px;
+}
+.left-side{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    float: left;
+    width: 20%;
+    position: absolute;
+    top: 250px;
+}
+.right-side{
+    float: right;
+    width: 80%;
+    position: relative;
+    top: 210px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+#formulario{
+    position: relative;
+    left: 10%;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    margin-right: 5%;
+    position: relative;
+    
+}
+.container{
+    width: 100%;
+    height: auto;
+}

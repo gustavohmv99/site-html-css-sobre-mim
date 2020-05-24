@@ -43,6 +43,11 @@
     position: relative;
     left: 10%;
 }
+.btn{
+    position: relative;
+    right:45%;
+    top: 10px;
+}
 footer{
     font-family: 'Courier New', Courier, monospace;
     text-align: right;

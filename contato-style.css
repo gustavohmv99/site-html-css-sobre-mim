@@ -33,12 +33,15 @@
     float: right;
     width: 80%;
     position: relative;
-    top: 210px;
+    top: 190px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: black;
 }
-
+.fa{
+    height: 55px;
+    width: 55px;
+}
 #formulario{
     position: relative;
     left: 10%;
